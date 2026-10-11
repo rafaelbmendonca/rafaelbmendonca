@@ -4,8 +4,6 @@
 
 ### Estudante de Ciência da Computação @ UFBA · Trainee Back-end @ TITAN
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95;Apaixonado+por+algoritmos+e+resolu%C3%A7%C3%A3o+de+problemas;Rumo+%C3%A0+%C3%A1rea+de+Dados+%F0%9F%93%8A;Trainee+Back-end+na+TITAN+%F0%9F%9A%80" alt="Typing SVG" />
-
 </div>
 
 ---
